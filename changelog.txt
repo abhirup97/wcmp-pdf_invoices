@@ -1,0 +1,50 @@
+= 2.0.7 - 2019-11-07 =
+* Fixed - Fatal error at the time of open pdf.
+
+= 2.0.6 - 2019-10-11 =
+* Fixed - Fatal error at the time of update.
+
+= 2.0.5 - 2019-10-03 =
+* Fixed - PDF logo issues.
+* Fixed - Some dependencies functionalities call.
+* Updated - DOMPDF library.
+
+= 2.0.4 - 2019-03-14 =
+* Fixed - Updated License API.
+* Updated - Language File.
+
+= 2.0.3 - 2018-12-14 =
+* Fixed - Customer Address display on packing slip
+* Fixed - Company Logo Display in invoices
+* Fixed - (Development) Change in template architecture
+* Fixed - License update issues
+* Updated - Language File.
+
+= 2.0.2 =
+* Added - Generate customer invoice in vendor end
+
+= 2.0.1 =
+* Fixed - $general_settings[‘company_logo’]
+
+= 2.0.0 =
+* Removed - Dependency on WooCommerce PDF Invoice
+* Added -Admin and Vendor VAT/Tax Number
+* Added - WooCommerce PDF Invoices & Packing Slips
+* Added - PDF output format – In browser or download
+* Added -PDF size choice– A4 or Letter
+* Added - PDF Orientation (display) – Portrait or Landscape
+* Added - Select email action to send the admin the PDF of the order.
+* Added -Preview of selected PDF invoice template
+* Added - Include Invoice Number and Invoice Number Format
+* Added -Vendor can choose which details to show in the vendor invoice
+* Added - Hooks provided to let the vendor send their invoice to the customer
+
+= 1.0.4 =
+* Fixed - Dependency notice error in admin panel
+* Fixed - Image display problem
+* Fixed - Fifth invoice template design
+* Added - Packing slip on/off option provided at admin pdf invoice settings page.
+* Added - WooCommerce PDF Invoices & Packing Slips
+
+= 1.0.0 =
+* Initial version release.
